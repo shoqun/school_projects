@@ -1,0 +1,5 @@
+/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/build-smartCalc_v1_0-Qt_6_5_1_for_macOS-Debug/CMakeFiles/smartCalc_v1_0.dir
+/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/build-smartCalc_v1_0-Qt_6_5_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/build-smartCalc_v1_0-Qt_6_5_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/build-smartCalc_v1_0-Qt_6_5_1_for_macOS-Debug/CMakeFiles/smartCalc_v1_0_autogen_timestamp_deps.dir
+/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/build-smartCalc_v1_0-Qt_6_5_1_for_macOS-Debug/CMakeFiles/smartCalc_v1_0_autogen.dir

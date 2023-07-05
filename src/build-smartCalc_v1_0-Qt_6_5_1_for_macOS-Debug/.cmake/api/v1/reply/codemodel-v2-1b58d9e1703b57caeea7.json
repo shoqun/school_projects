@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "smartCalc_v1_0",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "smartCalc_v1_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smartCalc_v1_0-Debug-01da401b7bc88033761c.json",
+					"name" : "smartCalc_v1_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smartCalc_v1_0_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smartCalc_v1_0_autogen-Debug-3a0ec9f489af410c9f26.json",
+					"name" : "smartCalc_v1_0_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smartCalc_v1_0_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smartCalc_v1_0_autogen_timestamp_deps-Debug-1de37181249a816c0837.json",
+					"name" : "smartCalc_v1_0_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/build-smartCalc_v1_0-Qt_6_5_1_for_macOS-Debug",
+		"source" : "/Users/shogun/Desktop/cprojects/21school21/smartCalc/smartCalc_v1.0/C7_SmartCalc_v1.0-1/src/smartCalc_v1_0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

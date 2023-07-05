@@ -1,0 +1,4 @@
+/Users/migdalia/Desktop/projects/SmartCalc_1.0v/C7_SmartCalc_v1.0-1/src/smartCalc_v1_0/CMakeFiles/smartCalc_v1_0.dir
+/Users/migdalia/Desktop/projects/SmartCalc_1.0v/C7_SmartCalc_v1.0-1/src/smartCalc_v1_0/CMakeFiles/edit_cache.dir
+/Users/migdalia/Desktop/projects/SmartCalc_1.0v/C7_SmartCalc_v1.0-1/src/smartCalc_v1_0/CMakeFiles/rebuild_cache.dir
+/Users/migdalia/Desktop/projects/SmartCalc_1.0v/C7_SmartCalc_v1.0-1/src/smartCalc_v1_0/CMakeFiles/smartCalc_v1_0_autogen.dir
